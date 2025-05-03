@@ -125,8 +125,7 @@ itemadapter @ file:///tmp/build/80754af9/itemadapter_1626442940632/work
 itemloaders @ file:///croot/itemloaders_1708639918324/work
 itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
 jaraco.classes @ file:///tmp/build/80754af9/jaraco.classes_1620983179379/work
-jax==0.4.25
-jaxlib==0.4.25+cuda12.cudnn89
+
 jedi @ file:///work/ci_py311_2/jedi_1679336495545/work
 jeepney @ file:///tmp/build/80754af9/jeepney_1627537048313/work
 jellyfish @ file:///croot/jellyfish_1695193535278/work
