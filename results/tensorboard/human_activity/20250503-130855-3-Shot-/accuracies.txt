@@ -1,0 +1,2 @@
+steps	mean	std	min	max	val	final
+0	0.16729	0.0	0.16729	0.16729	0.16671	0*
